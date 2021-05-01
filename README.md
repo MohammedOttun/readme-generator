@@ -2,24 +2,21 @@
 
 ## Description
 
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include:
-- what the app is for, 
-- how to use the app, 
-- how to install it, 
-- how to report issues, and 
-- how to make contributions
+When creating an open source project on GitHub, it’s important to have a high-quality README for the app. The README should answer these questions:
+- What the app is for?
+- How to use the app? 
+- How to install it?
+- How to report issues?
+- How to make contributions?
 
 This applications is a command-line application that is used to generate a README file. This will provide the developer more time to focus on development, rather than docummentation.
 
 **README Generator** will dynamically generate a `README.md` file, based on user input from the command-line.
 User input will be collected using the [Inquirer package](https://www.npmjs.com/package/inquirer), and the [Professional README Guide](https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide) is the guide for a high-quality, professional README file. 
 
-
-
-
 ## User Story
 
-```md
+```
 AS A developer
 I WANT a README generator
 SO THAT I can quickly create a professional README for a new project
