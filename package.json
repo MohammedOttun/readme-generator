@@ -1,0 +1,31 @@
+{
+  "name": "readme-generator",
+  "version": "1.0.0",
+  "description": "README Generator",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammedOttun/readme-generator.git"
+  },
+  "keywords": [
+    "README",
+    "generator",
+    "documentation",
+    "project"
+  ],
+  "author": "Mohammed Ottun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammedOttun/readme-generator/issues"
+  },
+  "homepage": "https://github.com/MohammedOttun/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
+}
