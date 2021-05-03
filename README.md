@@ -25,10 +25,10 @@ User input will be collected using the [Inquirer package](https://www.npmjs.com/
 - [Video](https://drive.google.com/file/d/1Sdx9zgi6VbBwheL60Dp-bBk9GUWF_VLi/view?usp=sharing) that demonstrates its functionality.
 
 - Screenshots: 
-:::image type="content" source="assets/images/screenshot1.png" alt-text="screenshot 1":::
-:::image type="content" source="assets/images/screenshot2.png" alt-text="screenhot 2":::
-:::image type="content" source="assets/images/screenshot3.png" alt-text="screenhot 3":::
-:::image type="content" source="assets/images/screenshot4.png" alt-text="screenhot 4":::
+:::image type="content" source="./assets/images/screenshot1.png" alt-text="screenshot 1":::
+:::image type="content" source="./assets/images/screenshot2.png" alt-text="screenshot 2":::
+:::image type="content" source="./assets/images/screenshot3.png" alt-text="screenshot 3":::
+:::image type="content" source="./assets/images/screenshot4.png" alt-text="screenshot 4":::
 
 
 
